@@ -144,6 +144,21 @@ a {
     background-color: #FFF4D6;
 }
 
+.need-help {
+    margin-top: 100px;
+}
+
+.gallery {
+    padding: 1% 6%;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.gallery img {
+    width: 22%;
+    height: auto;
+}
+
 .subscription {
     height: 150px;
     width: 800px;
